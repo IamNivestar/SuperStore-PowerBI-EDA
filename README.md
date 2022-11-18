@@ -3,4 +3,4 @@ Análise de dados exploratória através do Power Bi para uma base de dados de v
 
 A base de dados utilizada está disponível em: https://www.kaggle.com/datasets/itssuru/super-store
 
-![Preview](https://github.com/IamNivestar/SuperStore-PowerBI-EDA/blob/main/super_store_eda_preview.mp4)
+![Preview](https://github.com/IamNivestar/SuperStore-PowerBI-EDA/blob/main/super_store_eda_preview.gif)
